@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I'm Momosansnom 👋</h1>
 
-<h3 align="center">M1 Engineering Student | Computer Science & Electronics</h3>
+<h3 align="center">Engineering Student | Computer Science & Electronics</h3>
 
 <p align="center">
-  A tech enthusiast currently pursuing a <b>Master 1 (Year 4)</b> in France, specializing in the intersection of hardware and software. I am actively looking for a 4-to-5 month internship in <b>Embedded Systems, Electronics, or Software Engineering</b> starting in 2026.
+  A tech enthusiast currently studying in France, specializing in the intersection of hardware and software. I am highly interested in <b>Embedded Artificial Intelligence (Embedded AI)</b>.
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 **Education:** Master 1 in Computer Science and Electronics.
-- 🔍 **Seeking:** 2026 Internship opportunities (Bac+4 / M1 level).
+- 🎓 **Education:** Engineering Student in Computer Science and Electronics.
+- 💡 **Interests:** Embedded AI, Machine Learning on edge devices.
 - 🛠️ **Focus:** Low-level programming, system optimization, and hardware-software integration.
 - 📍 **Location:** Based in France 🇫🇷.
 
@@ -35,8 +35,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
