@@ -10,8 +10,6 @@
 
 ### 🚀 About Me
 - 🎓 **Education:** Engineering Student in Computer Science and Electronics.
-- 💡 **Interests:** Embedded AI, Machine Learning on edge devices.
-- 🛠️ **Focus:** Low-level programming, system optimization, and hardware-software integration.
 - 📍 **Location:** Based in France 🇫🇷.
 
 ### 🛠 Languages and Tools:
