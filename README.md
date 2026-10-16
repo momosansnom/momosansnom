@@ -1,38 +1,24 @@
-<h1 align="center">Hi, I'm Momosansnom 👋</h1>
+<h1 align="center">Hi, I'm momosansnom</h1>
 
-<h3 align="center">Engineering Student | Computer Science & Electronics</h3>
+<h3 align="center">Engineering Student | Microelectronics, FPGA & Hardware Security</h3>
 
 <p align="center">
-  A tech enthusiast currently studying in France, specializing in the intersection of hardware and software. I am highly interested in <b>Embedded Artificial Intelligence (Embedded AI)</b>.
+  A final-year engineering student specializing in <b>Mobility and Security</b>. I am passionate about the intersection of hardware and software, with a strong focus on <b>FPGA Design, Embedded Systems, and Hardware Security</b> (including Edge AI and cryptography).
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 **Education:** Engineering Student in Computer Science and Electronics.
-- 📍 **Location:** Based in France 🇫🇷.
+### About Me
+- **Education:** Final-year Engineering Student in Microelectronics and Computer Science.
+- **Specialization:** Mobility & Security (Hardware Security, Fault Injection, Cryptography).
+- **Current Focus:** RTL Design (VHDL/SystemVerilog), Bare-metal Embedded C, RISC-V Architectures, and Hardware Acceleration.
+- **Location:** France.
 
-### 🛠 Languages and Tools:
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-</p>
+### Languages and Tools
+
+**Hardware & Embedded:** VHDL, SystemVerilog, Xilinx Vivado, STM32, FreeRTOS, RISC-V, QEMU.
+<br>
+**Software & AI:** C, C++, Python, TensorFlow, Linux, Git.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
